@@ -5,7 +5,7 @@ in this project there is 5 option
 # 2.withdraw money
 # 3.diposit
 # 4.delete account
-# view balance
+# 5 view balance
 possible functionality is there 
 
 # every records are saving and deleting dynamicly in our temporary csv file .
